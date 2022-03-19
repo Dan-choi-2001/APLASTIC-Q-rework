@@ -1,0 +1,30 @@
+# APLASTIC-Q rework
+## This project reworked from paper: 
+```
+https://iopscience.iop.org/article/10.1088/1748-9326/abbd01/pdf
+```
+
+## Folder tree:
+```
+.
+├───Marine_Litter_Dataset_developed_for_APLASTIC_Q_publication
+├───model
+└───test_folder
+    ├───fifty
+    ├───hundred
+    └───input_image
+```
+
+## Data:
+```
+https://www.mediafire.com/file/7ra8ivjk9d6fcym/data_APLASTIC_Q.zip/file
+```
+
+## Extract downloaded data in this folder
+
+## How to use
+`train.ipynb`: contain Prepare Data, APLASTIC-Q Models and train function
+
+`run.ipynb`: to test with your own image
+
+### reworked by Nguyen Huu Khoa and me
