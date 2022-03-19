@@ -1,1 +1,1 @@
-# Trained model by us
+# Trained model
