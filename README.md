@@ -27,4 +27,4 @@ https://www.mediafire.com/file/7ra8ivjk9d6fcym/data_APLASTIC_Q.zip/file
 
 `run.ipynb`: to test with your own image
 
-### reworked by Nguyen Huu Khoa and me
+# Reworked by Nguyen Huu Khoa and me
