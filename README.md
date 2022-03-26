@@ -15,7 +15,7 @@ https://iopscience.iop.org/article/10.1088/1748-9326/abbd01/pdf
     └───input_image
 ```
 
-## Data:
+## Data (include pretrained models):
 ```
 https://www.mediafire.com/file/7ra8ivjk9d6fcym/data_APLASTIC_Q.zip/file
 ```
