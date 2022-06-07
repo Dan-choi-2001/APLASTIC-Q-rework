@@ -25,4 +25,4 @@ https://www.mediafire.com/file/7ra8ivjk9d6fcym/data_APLASTIC_Q.zip/file
 ## How to use
 `train.ipynb`: contain Prepare Data, APLASTIC-Q Models and train function
 
-`run.ipynb`: to test with your own image
+`inference.ipynb`: to test with your own image
