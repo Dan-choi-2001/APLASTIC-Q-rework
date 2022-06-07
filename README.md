@@ -23,6 +23,6 @@ https://www.mediafire.com/file/7ra8ivjk9d6fcym/data_APLASTIC_Q.zip/file
 ## Extract downloaded data in this folder
 
 ## How to use
-`train.ipynb`: contain Prepare Data, APLASTIC-Q Models and train function
+[train.ipynb](train.ipynb): contain Prepare Data, APLASTIC-Q Models and train function
 
-`inference.ipynb`: to test with your own image
+[inference.ipynb](inference.ipynb): to test with your own image
