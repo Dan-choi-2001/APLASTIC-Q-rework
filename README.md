@@ -1,4 +1,4 @@
-# APLASTIC-Q rework
+# APLASTIC-Q (Reworked by Nguyen Huu Khoa and me)
 ## This project reworked from paper: 
 ```
 https://iopscience.iop.org/article/10.1088/1748-9326/abbd01/pdf
@@ -26,5 +26,3 @@ https://www.mediafire.com/file/7ra8ivjk9d6fcym/data_APLASTIC_Q.zip/file
 `train.ipynb`: contain Prepare Data, APLASTIC-Q Models and train function
 
 `run.ipynb`: to test with your own image
-
-# Reworked by Nguyen Huu Khoa and me
